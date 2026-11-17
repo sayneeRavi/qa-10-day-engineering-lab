@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Build files
+dist/
+build/
+target/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Logs and secrets
+*.log
+.env
+.env.*
+!.env.example
